@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\ChessAppPHP\resources\views/admin/inc/right-side-nav.blade.php ENDPATH**/ ?>

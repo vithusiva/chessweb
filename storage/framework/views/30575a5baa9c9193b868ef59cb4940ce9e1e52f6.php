@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\ChessAppPHP\resources\views/admin/inc/info.blade.php ENDPATH**/ ?>
